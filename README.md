@@ -47,6 +47,6 @@ In the second picture King Abdullah was recognized with a confidence of 53.4%
 
 In the third picture King Fahad was recognized with a confidence of 71%
 
-I consider these good results since they all wear shemagh and most of there faces is covered
+I consider these good results since they all wear shemagh and most of there faces are covered
 
 The pictures used to train the model and to validate are included in the files
