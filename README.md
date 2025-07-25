@@ -37,5 +37,16 @@ It draws a rectangle on the face if it is recognized and also writes the name of
 
 <img width="1427" height="947" alt="Screenshot 2025-07-25 205049" src="https://github.com/user-attachments/assets/fbcb1c42-36e1-4686-9280-70d65b6bf0e2" />
 
-<img width="1574" height="886" alt="Screenshot 2025-07-25 205429" src="https://github.com/user-attachments/assets/4911f
-
+<img width="1574" height="886" alt="Screenshot 2025-07-25 205429" src="https://github.com/user-attachments/assets/561ac754-3dc9-4d3b-af37-1a3124461d22" />
+
+These are the results 
+
+In the first picture King Salman was recognized with a confidence of 63.5%
+
+In the second picture King Abdullah was recognized with a confidence of 53.4%
+
+In the third picture King Fahad was recognized with a confidence of 71%
+
+I consider these good results since they all wear shemagh and most of there faces is covered
+
+The pictures used to train the model and to validate are included in the files
